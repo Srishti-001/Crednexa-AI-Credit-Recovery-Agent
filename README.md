@@ -1,4 +1,4 @@
-**Crednexa AI – Intelligent Credit Recovery & Financial Risk Intelligence Platform**
+# Crednexa AI – Intelligent Credit Recovery & Financial Risk Intelligence Platform
 
 ## Overview
 Crednexa AI is an AI-powered financial risk intelligence and credit recovery platform designed to help organizations automate invoice monitoring, analyze client payment behavior, detect overdue invoices, and improve recovery workflows through intelligent analytics and AI-driven insights. 
